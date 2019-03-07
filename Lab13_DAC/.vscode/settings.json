@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "piano.h": "c",
+        "tm4c123gh6pm.h": "c",
+        "tm4c123gh6pm.h\u0000123gh6pm.h": "c",
+        "tm4c123gh6pm.h\u000023gh6pm.h": "c",
+        "tm4c123gh6pm.h\u0000c123gh6pm.h": "c",
+        "tm4c123gh6pm.h\u0000gh6pm.h": "c",
+        "tm4c123gh6pm.h\u0000m4c123gh6pm.h": "c",
+        "tm4c123gh6pm.h\u0000tm4c123gh6pm.h": "c"
+    }
+}
